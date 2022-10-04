@@ -1,3 +1,7 @@
+tags and products are both many to many
+tags can have many products 
+products can have many tags
+
 # E-commerce Back End Starter Code
 
 GIVEN a functional Express.js API
