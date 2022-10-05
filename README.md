@@ -29,7 +29,7 @@
   There are no installation instructions for this project.
 
   ## Demonstration
-  [!](https://github.com/BarkMulcher/README-generator/blob/main/mdgeneratorgif.gif)
+  [YouTube Demonstration Video Link](https://www.youtube.com/watch?v=zw_0mHnLq9A)
 
   ## Contributing
   Contact via information found in the "Contact" section of this README.
@@ -44,7 +44,7 @@
   JavaScript
 
   ## Credits
-  undefined
+  N/A
 
   ## Contributing
   Contact via information found in the "Contact" section of this README.
@@ -53,6 +53,6 @@
   This project is licensed under GPL v3
 
   ## Contact
-  * Email: undefined
-  * Phone: undefined
+  * Email: N/A
+  * Phone: N/A
   * GitHub: github.com/BarkMulcher
